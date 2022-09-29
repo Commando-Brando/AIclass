@@ -8,6 +8,7 @@ pandas = "*"
 matplotlib = "*"
 geopy = "*"
 numpy = "*"
+haversine = "*"
 
 [dev-packages]
 
